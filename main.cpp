@@ -7,11 +7,11 @@ int main()
     
     BST<int> bst;
 
-    bst.add(21);
-    bst.add(13);
-    bst.add(33);
-    bst.add(18);
-
+    bst.add(21);//SE agrega el 21
+    bst.add(13);//Se agrega el 23
+    bst.add(33);//UN 33
+    bst.add(18); //Un 18
+    bst.add(32);
     bst.add(10);/*
     bst.add(5);
     bst.add(25);
