@@ -56,17 +56,17 @@ int main()
     // bst.add(28);
     // bst.add(27);
 
-    // bst.print();
-    // bst.remove(30);
-    // bst.print();
-    // bst.remove(20);
-    // bst.print();
-    // bst.remove(28);
-    // bst.print();
-    // bst.remove(35);
-    // bst.remove(25);
-    // bst.remove(33);
-    // bst.print();
+    bst.print();
+    bst.remove(30);
+    bst.print();
+    bst.remove(20);
+    bst.print();
+    bst.remove(28);
+    bst.print();
+    bst.remove(35);
+    bst.remove(25);
+    bst.remove(33);
+    bst.print();
 
     return 0;
 }
